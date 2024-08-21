@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sithil-S
 - 👀 Enthusiastic Web and Mobile Application Developer
 - 🌱 Computer Science at University of Westminster 
-- 📫 How to reach me sithilsandinu123@gmail.com
--                     www.linkedin.com/in/sithil
+- 📫 How to reach me sithilsandinu123@gmail.com   -   www.linkedin.com/in/sithil
+
 
 
 <!---
