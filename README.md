@@ -104,4 +104,3 @@ As I continue to advance in my studies and career, I am eager to take on new pro
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithil-s&show_icons=true&locale=en&layout=compact" alt="sithil-s" /></p>
