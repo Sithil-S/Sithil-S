@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Sithil Sandinu</h1>
 <h3 align="center">Passionate Web | Mobile application Developer</h3>
 <div>
-<img align="right" width="375" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+<img align="right" width="380" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 </div>
 
 - 👩🏻‍🎓 Computer Science undergraduate at University of Westminster, UK
