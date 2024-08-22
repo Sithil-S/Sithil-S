@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sithil Sandinu</h1>
 <h3 align="center">Passionate Web and Mobile Application Developer</h3>
 
-- 💬 Ask me about **react.js , react native**
+- 💬 Ask me about **React.js , React Native and Flutter**
 
 - 📫 How to reach me **sithilsandinu123@gmail.com**
 
