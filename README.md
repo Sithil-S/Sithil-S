@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/VQrneJOCONMAAAAC/tenor.gif"
 </div>
 
-- 👩🏻‍🎓 Computer Science undergraduate at University of Westminster, United Kingdom
+- 👩🏻‍🎓 Computer Science undergraduate at University of Westminster, UK
 - 🌱 I’m currently learning more on Data Analytics and Machine Learning
 - 💬 Ask me about **MERN , MOBILE**
 - 📫 How to reach me **sithilsandinu123@gmail.com**
