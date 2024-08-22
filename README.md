@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sithil Sandinu</h1>
-<h3 align="center">Passionate Web and Mobile Application Developer</h3>
 
-- 💬 Ask me about **react.js , react native**
+<div>
+<img align="center" alt="Coding" width="1200" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif"
+</div>
 
+
+<h1 align="center">Hi, I'm Sithil Sandinu</h1>
+<h3 align="center">Passionate Web | Mobile application Developer</h3>
+<div>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/VQrneJOCONMAAAAC/tenor.gif"
+</div>
+
+- 👩🏻‍🎓 Computer Science undergraduate at University of Westminster, United Kingdom
+- 🌱 I’m currently learning more on Data Analytics and Machine Learning
+- 💬 Ask me about **MERN , MOBILE**
 - 📫 How to reach me **sithilsandinu123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
