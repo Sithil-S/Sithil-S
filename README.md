@@ -1,4 +1,5 @@
 
+
 <div>
 <img align="center" alt="Coding" width="1200" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif"
 </div>
@@ -6,6 +7,7 @@
 
 <h1 align="center">Hi, I'm Sithil Sandinu</h1>
 <h3 align="center">Passionate Web | Mobile application Developer</h3>
+<br/>
 <div>
 <img align="right" width="380" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 </div>
@@ -14,12 +16,12 @@
 - 🌱 I’m currently learning more on Data Analytics and Machine Learning
 - 💬 Ask me about **MERN , RUST**
 - 📫 How to reach me **sithilsandinu123@gmail.com**
-
-<br>
-
+<br/>
 
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About Me**
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About Me**
+
+<br/>
 
 I am a passionate and dedicated Computer Science undergraduate with a strong foundation in programming and software development. With hands-on experience in freelancing projects, I've honed my problem-solving skills and developed a keen eye for detail, allowing me to deliver high-quality solutions tailored to client needs.
 
