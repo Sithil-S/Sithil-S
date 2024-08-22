@@ -32,6 +32,16 @@ As I continue to advance in my studies and career, I am eager to take on new pro
 <a href="https://www.linkedin.com/in/sithil/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sithil-s" height="30" width="120" /></a>
 <br><br>
 
+
+# Github Statistics
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sithil-S&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sithil-S" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sithil-S&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="Sithil-S"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sithil-S&&theme=radical"  alt="Sithil-S"  /></p><br>
+
+
 # 💻 Tech Stack
 
 ## Languages
