@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Sithil Sandinu</h1>
 <h3 align="center">Passionate Web | Mobile application Developer</h3>
 <div>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/VQrneJOCONMAAAAC/tenor.gif"
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/VQrneJOCONMAAAAC/tenor.gif"
 </div>
 
 - 👩🏻‍🎓 Computer Science undergraduate at University of Westminster, UK
