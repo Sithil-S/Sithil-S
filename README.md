@@ -7,18 +7,19 @@
 <h1 align="center">Hi, I'm Sithil Sandinu</h1>
 <h3 align="center">Passionate Web | Mobile application Developer</h3>
 <div>
-<img align="right" alt="Coding" width="200" src="https://c.tenor.com/VQrneJOCONMAAAAC/tenor.gif"
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </div>
 
 - 👩🏻‍🎓 Computer Science undergraduate at University of Westminster, UK
 - 🌱 I’m currently learning more on Data Analytics and Machine Learning
-- 💬 Ask me about **MERN , MOBILE**
+- 💬 Ask me about **MERN , RUST**
 - 📫 How to reach me **sithilsandinu123@gmail.com**
 
+<br>
 
 
 
-# About Me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About Me**
 
 I am a passionate and dedicated Computer Science undergraduate with a strong foundation in programming and software development. With hands-on experience in freelancing projects, I've honed my problem-solving skills and developed a keen eye for detail, allowing me to deliver high-quality solutions tailored to client needs.
 
